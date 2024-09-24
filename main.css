@@ -20,7 +20,6 @@ body {
   flex-wrap: nowrap;
 }
 
-/* Title link */
 .title a {
   transition: 0.75s;
   font-size: 20px;
@@ -33,7 +32,6 @@ body {
   font-size: 22.5px;
 }
 
-/* Top bar styling */
 .top-bar {
   display: flex;
   justify-content: space-between;
@@ -234,7 +232,6 @@ body {
   transition: 0.3s;
 }
 
-/* Responsive Design */
 @media screen and (max-width: 768px) {
   .team-cards {
     flex-direction: column;

@@ -308,3 +308,15 @@ body {
   color: #ffffff;
   margin-bottom: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    
+    .game-cards {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .team-card {
+      width: 80%;
+    }
+}
